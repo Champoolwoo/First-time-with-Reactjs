@@ -1,3 +1,23 @@
+# เริ่มต้นการใช้งาน Reactjs
+
+###Install React
+```bash
+$ npm install -g create-react-app
+```
+###ทำการสร้างไฟล์ต่าง ๆ ในการเขียน React
+```bash
+$ create-react-app <ชื่อ Project ที่ต้องการตั้ง>
+```
+ตัวอย่าง
+```bash
+$ create-react-app TestReact
+```
+ก่อนทำการ run ให้เข้าไปที่ Folder ที่สร้างขึ้นมา จากคำสั่งด้านบน คือ TestReact
+###จากนั้นใช้คำสั่งเพื่อทำการ Run
+```bash
+$ npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
